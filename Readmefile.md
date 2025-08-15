@@ -37,10 +37,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system built with LangCh
 
 ### 1. Clone and Setup
 
-```bash
-git clone <your-repo>
-cd rag-system
-```
+
 
 ### 2. Environment Configuration
 
@@ -313,25 +310,4 @@ python gradio_app.py --debug
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- [LangChain](https://python.langchain.com/) for the RAG framework
-- [Qdrant](https://qdrant.tech/) for the vector database
-- [Gradio](https://gradio.app/) for the web interface
-- [OpenAI](https://openai.com/) for embeddings and language models
-
-## 📞 Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Search existing GitHub issues
-3. Create a new issue with detailed description
-4. Join our community discussions
-
----
-
-**Happy RAG-ing! 🚀**
