@@ -1,0 +1,27 @@
+# Core dependencies
+langchain
+langchain-core
+langchain-community=
+langchain-openai
+openai
+qdrant-client
+
+# Document processing
+pypdf==4.0.1
+python-multipart==0.0.6
+python-docx==1.1.0
+
+# Web framework
+gradio
+fastapi
+uvicorn
+
+# Utilities
+python-dotenv
+pydantic==2.5.3
+numpy==1.26.3
+pandas==2.2.0
+
+# Optional: For additional document types
+# unstructured==0.12.0
+# markdown==3.5.2
